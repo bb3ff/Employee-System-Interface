@@ -1,0 +1,48 @@
+Worker name: Khang
+ Working Attitude Score: 10
+ Hired Time: 9576.000000
+ Working presence: 62.406015
+ Working status: you are in safe zone 
+Project's ID: 1 ---- Project progress: 100.000000 percent
+ Project's ID: 2 ---- Project progress: 100.000000 percent
+ 
+Worker name: Akira
+ Working Attitude Score: 10
+ Hired Time: 9576.000000
+ Working presence: 26.106934
+ Working status: you are in safe zone 
+Project's ID: 154 ---- Project progress: 92.000000 percent
+ Project's ID: 282 ---- Project progress: 100.000000 percent
+ 
+Worker name: Khang
+ Working Attitude Score: 3
+ Hired Time: 9576.000000
+ Working presence: 74.937343
+ Working status: you are in safe zone 
+Project's ID: 2 ---- Project progress: 50.000000 percent
+ Project's ID: 3 ---- Project progress: 80.000000 percent
+ 
+Worker name: Khang
+ Working Attitude Score: 3
+ Hired Time: 9576.000000
+ Working presence: 74.937343
+ Working status: you are in safe zone 
+Project's ID: 2 ---- Project progress: 50.000000 percent
+ Project's ID: 3 ---- Project progress: 80.000000 percent
+ 
+Worker name: Khang
+ Working Attitude Score: 3
+ Hired Time: 9576.000000
+ Working presence: 74.937343
+ Working status: you are in safe zone 
+Project's ID: 2 ---- Project progress: 50.000000 percent
+ Project's ID: 3 ---- Project progress: 80.000000 percent
+ 
+Worker name: Akira
+ Working Attitude Score: 3
+ Hired Time: 9576.000000
+ Working presence: 5.221387
+ Working status: you are in danger 
+Project's ID: 2 ---- Project progress: 50.000000 percent
+ Project's ID: 3 ---- Project progress: 80.000000 percent
+ 
